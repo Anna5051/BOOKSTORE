@@ -1,0 +1,233 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:av="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="av"
+    x:Class="WpfApp1.Pages.PageFavoriteBooks"
+    Title="PageFavoriteBooks"
+    Background="#FAFAFA"
+    av:DesignHeight="600"
+    av:DesignWidth="900">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Grid.Row="0" Margin="20">
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <ComboBox x:Name="ComboSort"
+                          Width="180"
+                          Height="32"
+                          FontSize="13"
+                          Background="White"
+                          BorderBrush="#DCE3EC"
+                          Margin="0,0,10,0"
+                          SelectionChanged="ComboSort_SelectionChanged">
+                    <ComboBoxItem Content="Название А-Я"/>
+                    <ComboBoxItem Content="Название Я-А"/>
+                    <ComboBoxItem Content="Цена по возрастанию"/>
+                    <ComboBoxItem Content="Цена по убыванию"/>
+                </ComboBox>
+                <TextBox x:Name="TextSearch"
+                         Width="200"
+                         Height="32"
+                         FontSize="13"
+                         BorderBrush="#DCE3EC"
+                         Padding="6"
+                         TextChanged="TextSearch_TextChanged"/>
+            </StackPanel>
+            <Button Content="← Назад"
+                    FontSize="14"
+                    Padding="10,4"
+                    Margin="0,0,0,10"
+                    Background="Transparent"
+                    Foreground="#0b5ed7"
+                    BorderThickness="0"
+                    FontWeight="Bold"
+                    Cursor="Hand"
+                    HorizontalAlignment="Left"
+                    Click="BackButton_Click"/>
+        </StackPanel>
+
+   
+        <StackPanel x:Name="StackPanelEmptyFavorites"
+                    Visibility="Collapsed"
+                    Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <TextBlock Text="В закладках ничего нет"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,10"/>
+            <TextBlock Text="Воспользуйтесь поиском или перейдите в каталог, чтобы найти интересные книги!"
+                       FontSize="14"
+                       Foreground="Gray"
+                       TextAlignment="Center"
+                       HorizontalAlignment="Center"
+                       Width="360"/>
+            <Button Content="Перейти в каталог"
+                    Click="GoToCatalog_Click"
+                    Background="#444"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    Margin="0,20,0,0"
+                    Width="200"
+                    Height="40"
+                    BorderThickness="0"
+                    Cursor="Hand"/>
+        </StackPanel>
+
+     
+        <Border x:Name="NotificationBanner"
+                Background="#1ED2AF"
+                CornerRadius="10"
+                Padding="12"
+                Margin="10"
+                Visibility="Collapsed"
+                HorizontalAlignment="Center"
+                MaxWidth="400">
+            <DockPanel>
+                <TextBlock x:Name="NotificationMessage"
+                           Text="Книга из отложенного теперь в наличии!"
+                           FontSize="15"
+                           Foreground="White"
+                           TextWrapping="Wrap"
+                           DockPanel.Dock="Left"/>
+                <Button Content="✕"
+                        Background="Transparent"
+                        Foreground="White"
+                        BorderThickness="0"
+                        FontSize="12"
+                        Width="24"
+                        Height="24"
+                        Margin="10,0,0,0"
+                        Click="CloseNotification_Click"
+                        Cursor="Hand"/>
+            </DockPanel>
+        </Border>
+
+     
+        <ListView x:Name="ListFavoriteBooks"
+                  Grid.Row="1"
+                  Margin="20"
+                  Background="Transparent"
+                  BorderThickness="0"
+                  ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Vertical"/>
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border Padding="12"
+                            CornerRadius="10"
+                            Margin="0,0,0,15"
+                            Background="White"
+                            BorderBrush="#DCE3EC"
+                            BorderThickness="1">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="110"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="210"/>
+                            </Grid.ColumnDefinitions>
+
+                        
+                            <Image Source="{Binding Book.CoverImage}"
+                                   Width="100" Height="140" Grid.Column="0">
+                                <Image.Style>
+                                    <Style TargetType="{x:Type Image}">
+                                        <Setter Property="Opacity" Value="1"/>
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Book.Stock}" Value="0">
+                                                <Setter Property="Opacity" Value="0.3"/>
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Image.Style>
+                            </Image>
+
+                      
+                            <StackPanel Grid.Column="1" Margin="12,0">
+                                <TextBlock Text="{Binding Book.Title}" FontWeight="Bold" FontSize="16" Margin="0,0,0,4"/>
+                                <TextBlock FontSize="13">
+                                    <Run Text="Жанр: "/>
+                                    <Run Text="{Binding Book.Genres.GenreName}"/>
+                                </TextBlock>
+                                <TextBlock Text="{Binding Book.Stock, StringFormat=Остаток: {0}}" FontSize="12"/>
+                            </StackPanel>
+
+                     
+                            <StackPanel Grid.Column="2" HorizontalAlignment="Right">
+                                <TextBlock FontSize="13">
+                                    <Run Text="Автор: "/>
+                                    <Run Text="{Binding Book.Authors.FullName}"/>
+                                </TextBlock>
+                                <TextBlock FontSize="13" Margin="0,4,0,6">
+                                    <Run Text="Цена: "/>
+                                    <Run Text="{Binding Book.Price, StringFormat={}{0} ₽}"/>
+                                </TextBlock>
+
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,4,0,0">
+                                    <Button Padding="10,4"
+                                            FontSize="12"
+                                            FontWeight="Bold"
+                                            Tag="{Binding Book}"
+                                            Click="AddToCart_Click"
+                                            Cursor="Hand"
+                                            VerticalAlignment="Center">
+                                        <Button.Style>
+                                            <Style TargetType="Button">
+                                                <Setter Property="Content" Value="🛒 В КОРЗИНУ"/>
+                                                <Setter Property="Background" Value="#4CAF50"/>
+                                                <Setter Property="Foreground" Value="White"/>
+                                                <Setter Property="BorderThickness" Value="0"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding Book.Stock}" Value="0">
+                                                        <Setter Property="Content" Value="В ОЖИДАНИИ"/>
+                                                        <Setter Property="IsEnabled" Value="False"/>
+                                                        <Setter Property="Background" Value="Gray"/>
+                                                        <Setter Property="Foreground" Value="White"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+
+                                    <Viewbox Width="24" Height="24" Margin="10,0,0,0" Cursor="Hand"
+                                             Tag="{Binding FavoriteID}"
+                                             MouseDown="RemoveFromFavorite_Click">
+                                        <Path Data="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 
+                                                    2 5.42 4.42 3 7.5 3c1.74 0 3.41 0.81 4.5 2.09
+                                                    C13.09 3.81 14.76 3 16.5 3 
+                                                    19.58 3 22 5.42 22 8.5c0 3.78-3.4 
+                                                    6.86-8.55 11.54L12 21.35z"
+                                              Fill="Red"
+                                              Stroke="Red"
+                                              StrokeThickness="1.5"
+                                              Stretch="Uniform"/>
+                                    </Viewbox>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Margin="20" VerticalAlignment="Center">
+            <TextBlock x:Name="CountRecords"
+                       FontSize="14"
+                       Foreground="Gray"
+                       VerticalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Page>

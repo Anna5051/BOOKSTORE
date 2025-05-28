@@ -1,0 +1,447 @@
+﻿<Page x:Class="WpfApp1.Pages.PageProducts"
+            IsVisibleChanged="Page_IsVisibleChanged"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d"
+      d:DesignHeight="600" d:DesignWidth="900"
+      
+      Title="PageBooks">
+
+    <Page.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+    </Page.Resources>
+
+    <Grid    Background="#FAFAFA">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Margin="10" Grid.Row="0" VerticalAlignment="Center">
+            <ComboBox x:Name="ComboFilter" Width="160" Margin="5" Height="23" SelectionChanged="ComboFilter_SelectionChanged"/>
+            <ComboBox x:Name="ComboSort" Width="160" Margin="5" Height="23" SelectionChanged="ComboSort_SelectionChanged">
+                <ComboBoxItem Content="Название А-Я"/>
+                <ComboBoxItem Content="Название Я-А"/>
+                <ComboBoxItem Content="Цена ↑"/>
+                <ComboBoxItem Content="Цена ↓"/>
+            </ComboBox>
+            <TextBox x:Name="TextSearch" Width="200" Height="23" Margin="5" TextChanged="TextSearch_TextChanged"/>
+
+        
+            <StackPanel Orientation="Vertical" Margin="10,0,0,0" Cursor="Hand" MouseDown="ProfileIcon_Click" VerticalAlignment="Center">
+                <Image Source="/Images/profile.png"
+           Width="30" Height="30"
+           HorizontalAlignment="Center"/>
+                <TextBlock Text="Личный кабинет"
+               FontSize="12" Foreground="Black" FontWeight="SemiBold"
+               HorizontalAlignment="Center" Margin="0,4,0,0"/>
+            </StackPanel>
+
+      
+            <StackPanel Orientation="Vertical" Margin="15,0,0,0" Cursor="Hand" MouseDown="FavoriteRecipes_Click" VerticalAlignment="Center">
+                <Grid Width="36" Height="36">
+                    <Path x:Name="FavoriteHeartIcon"
+                  Width="36" Height="36"
+                  Stretch="Uniform"
+                  Fill="Gray"
+                  Data="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 
+                        2 5.42 4.42 3 7.5 3c1.74 0 3.41 0.81 4.5 
+                        2.09C13.09 3.81 14.76 3 16.5 3 
+                        19.58 3 22 5.42 22 8.5c0 3.78-3.4 
+                        6.86-8.55 11.54L12 21.35z"/>
+                    <Border Background="Black" Width="16" Height="16" CornerRadius="8"
+                    HorizontalAlignment="Left" VerticalAlignment="Top" Margin="1">
+                        <TextBlock x:Name="FavoriteCounter" Text="0"
+                           Foreground="White" FontSize="10" FontWeight="Bold"
+                           VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </Border>
+                </Grid>
+                <TextBlock Text="Отложено" FontSize="12" Foreground="Black" FontWeight="SemiBold"
+                   HorizontalAlignment="Center" Margin="0,4,0,0"/>
+            </StackPanel>
+
+           
+            <StackPanel Orientation="Vertical" Margin="10,0,0,0" Cursor="Hand" MouseDown="GoToBasket_Click" VerticalAlignment="Center">
+                <Grid Width="36" Height="36">
+                    <TextBlock Text="🛒" FontSize="28" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <Border Background="Black" Width="16" Height="16" CornerRadius="8"
+                    HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0">
+                        <TextBlock x:Name="CartCounter" Text="0"
+                           Foreground="White" FontSize="10" FontWeight="Bold"
+                           HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </Grid>
+                <TextBlock Text="Корзина" FontSize="12" Foreground="Black" FontWeight="SemiBold"
+                   HorizontalAlignment="Center" Margin="0,4,0,0"/>
+            </StackPanel>
+ 
+
+            <StackPanel Orientation="Vertical" Margin="10,0,0,0" Cursor="Hand"
+            MouseDown="NotificationIcon_Click" VerticalAlignment="Center">
+                <Grid Width="36" Height="36">
+                    <TextBlock Text="🔔" FontSize="28" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                
+                    <Border x:Name="NotificationCounterBorder"
+                Background="Black" Width="16" Height="16" CornerRadius="8"
+                HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0">
+                        <TextBlock x:Name="NotificationCounter"
+                       Text="0"
+                       Foreground="White" FontSize="10" FontWeight="Bold"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </Grid>
+                <TextBlock Text="Уведомления" FontSize="12" Foreground="Black"
+               FontWeight="SemiBold" HorizontalAlignment="Center" Margin="0,4,0,0"/>
+            </StackPanel>
+
+
+        </StackPanel>
+
+        <ListBox x:Name="ListProducts"
+         Grid.Row="1"
+         Margin="20,10"
+         Background="Transparent"
+         BorderThickness="0"
+         SelectionMode="Single"
+         ScrollViewer.VerticalScrollBarVisibility="Auto"
+         ScrollViewer.CanContentScroll="False"
+         SelectionChanged="ListProducts_SelectionChanged">
+
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel Orientation="Horizontal" Width="1896"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="Padding" Value="0"/>
+                    <Setter Property="Margin" Value="20,10"/>
+                </Style>
+            </ListBox.ItemContainerStyle>
+
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border Width="270" Height="600"
+            Padding="12"
+            CornerRadius="12"
+            Background="White"
+            BorderBrush="#DCE3EC"
+            BorderThickness="1"
+            SnapsToDevicePixels="True">
+                        <StackPanel>
+                        
+                            <Image x:Name="BookImage"
+                   Source="{Binding CoverImage}"
+                   Height="320"
+                   Width="220"
+                   Margin="0,0,0,12"
+                   Stretch="Uniform"
+                   HorizontalAlignment="Center"/>
+
+                      
+                            <TextBlock Text="{Binding Title}"
+                       FontSize="16"
+                       FontWeight="Bold"
+                       Foreground="#0B5ED7"
+                       TextWrapping="Wrap"
+                       Cursor="Hand"
+                       TextDecorations="Underline"
+                       Margin="0,0,0,4"
+                       MouseDown="Title_MouseDown"/>
+
+                        
+                            <TextBlock Text="{Binding Authors.FullName}"
+                       FontStyle="Italic"
+                       FontSize="13"
+                       Foreground="#555"
+                       Margin="0,0,0,2"/>
+                            <TextBlock Text="{Binding Genres.GenreName}"
+                       FontSize="12"
+                       Foreground="#888"
+                       Margin="0,0,0,2"/>
+                            <TextBlock Text="{Binding AgeRatingLabel}"
+           FontSize="14"
+           Foreground="#1976D2"
+           Margin="0,0,0,2"/>
+                            <TextBlock Text="{Binding SeriesDisplay}"
+                       FontSize="12"
+                       FontWeight="SemiBold"
+                       Foreground="#6A1B9A"
+                       Margin="0,0,0,6"/>
+
+                        
+                            <TextBlock Text="🎁 Подарочное издание всей серии"
+                       FontSize="12"
+                       FontWeight="Bold"
+                       Foreground="#C62828"
+                       Margin="0,2,0,0"
+                       Visibility="{Binding IsSeriesBoxSet, Converter={StaticResource BoolToVisibilityConverter}}"/>
+                            <TextBlock Text="🎀 Подарочная книга"
+                       FontSize="12"
+                       Foreground="#FB8C00"
+                       Margin="0,0,0,6"
+                       Visibility="{Binding IsIndividualGift, Converter={StaticResource BoolToVisibilityConverter}}"/>
+
+                    
+                            <StackPanel Margin="0,6,0,0">
+                         
+                                <TextBlock x:Name="DiscountedPriceText"
+                           Text="{Binding DiscountedPrice, StringFormat={}{0:F2} ₽}"
+                           FontSize="14"
+                           FontWeight="Bold"
+                           Foreground="#D32F2F"
+                           Visibility="Collapsed"/>
+
+                            
+                                <TextBlock x:Name="OldPriceText"
+                           Text="{Binding Price, StringFormat={}{0:F2} ₽}"
+                           FontSize="12"
+                           Foreground="Gray"
+                           TextDecorations="Strikethrough"
+                           Margin="0,2,0,0"
+                           Visibility="Collapsed"/>
+
+                 
+                                <TextBlock x:Name="DiscountText"
+                           Text="{Binding ActiveDiscountText}"
+                           FontSize="12"
+                           Foreground="Green"
+                           FontWeight="SemiBold"
+                           Margin="0,2,0,0"
+                           Visibility="Collapsed"/>
+
+                            
+                                <TextBlock x:Name="FullPriceText"
+                           Text="{Binding Price, StringFormat={}{0:F2} ₽}"
+                           FontSize="14"
+                           FontWeight="Bold"
+                           Foreground="#333"
+                           Visibility="Visible"/>
+                            </StackPanel>
+
+                
+                            <TextBlock Text="{Binding Stock, StringFormat=Остаток: {0}}"
+                       FontSize="12"
+                       Foreground="#333"/>
+
+                        
+                            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Left"
+                        Margin="0,12,0,0"
+                        VerticalAlignment="Bottom">
+                                <Button x:Name="AddToCartButton"
+                        Content="🛒 В КОРЗИНУ"
+                        Background="#4CAF50"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        FontSize="12"
+                        Padding="10,4"
+                        BorderThickness="0"
+                        Cursor="Hand"
+                        Tag="{Binding}"
+                        Click="AddToCart_Click"/>
+
+                              
+                                <Viewbox Width="20" Height="20"
+                         Margin="12,0,0,0"
+                         Cursor="Hand"
+                         Tag="{Binding}"
+                         MouseDown="FavoriteIcon_Click">
+                                    <Path x:Name="HeartIcon"
+                          Stretch="Uniform"
+                          Data="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 
+                                2 5.42 4.42 3 7.5 3c1.74 0 3.41 0.81 4.5 
+                                2.09C13.09 3.81 14.76 3 16.5 3 
+                                19.58 3 22 5.42 22 8.5c0 3.78-3.4 
+                                6.86-8.55 11.54L12 21.35z">
+                                        <Path.Style>
+                                            <Style TargetType="Path">
+                                                <Setter Property="Stroke" Value="Gray"/>
+                                                <Setter Property="Fill" Value="Transparent"/>
+                                                <Setter Property="StrokeThickness" Value="1.5"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding IsFavorite}" Value="True">
+                                                        <Setter Property="Fill" Value="Red"/>
+                                                        <Setter Property="Stroke" Value="Red"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Path.Style>
+                                    </Path>
+                                </Viewbox>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding Stock}" Value="0">
+                                        <Setter Property="Background" Value="#F5F5F5"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+
+               
+                    <DataTemplate.Triggers>
+                        <DataTrigger Binding="{Binding HasDiscount}" Value="True">
+                            <Setter TargetName="DiscountedPriceText" Property="Visibility" Value="Visible"/>
+                            <Setter TargetName="OldPriceText" Property="Visibility" Value="Visible"/>
+                            <Setter TargetName="DiscountText" Property="Visibility" Value="Visible"/>
+                            <Setter TargetName="FullPriceText" Property="Visibility" Value="Collapsed"/>
+                        </DataTrigger>
+
+                        <DataTrigger Binding="{Binding Stock}" Value="0">
+                            <Setter TargetName="BookImage" Property="Opacity" Value="0.3"/>
+                            <Setter TargetName="AddToCartButton" Property="Content" Value="В ОЖИДАНИИ"/>
+                            <Setter TargetName="AddToCartButton" Property="IsEnabled" Value="False"/>
+                        </DataTrigger>
+                    </DataTemplate.Triggers>
+                </DataTemplate>
+
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+
+        <StackPanel Orientation="Horizontal"
+            HorizontalAlignment="Right"
+            Margin="0,10,30,20"
+            Grid.Row="2"
+            VerticalAlignment="Center">
+
+            <TextBlock x:Name="CountRecords"
+               VerticalAlignment="Center"
+               FontSize="14"
+               FontWeight="SemiBold"
+               Margin="10,0"
+               Foreground="Gray"/>
+
+    
+            <Button x:Name="bCreateRecipe"
+            Content="Добавить книгу"
+            Click="bCreateRecipe_Click"
+            Margin="5"
+            Padding="12,6"
+            FontSize="14"
+            FontWeight="SemiBold"
+            Background="#4CAF50"
+            Foreground="White"
+            BorderThickness="0"
+            Cursor="Hand">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}"
+                                    CornerRadius="8"
+                                    Padding="{TemplateBinding Padding}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#43A047"/>
+                                <Setter Property="Effect">
+                                    <Setter.Value>
+                                        <DropShadowEffect BlurRadius="10" ShadowDepth="2" Opacity="0.25"/>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+         
+            <Button x:Name="bEditRecipe"
+            Content="Редактировать"
+            Click="bEditRecipe_Click"
+            Margin="5"
+            Padding="12,6"
+            FontSize="14"
+            FontWeight="SemiBold"
+            Background="#2196F3"
+            Foreground="White"
+            BorderThickness="0"
+            Cursor="Hand">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}"
+                                    CornerRadius="8"
+                                    Padding="{TemplateBinding Padding}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#1E88E5"/>
+                                <Setter Property="Effect">
+                                    <Setter.Value>
+                                        <DropShadowEffect BlurRadius="10" ShadowDepth="2" Opacity="0.25"/>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+       
+            <Button x:Name="bDeleteRecipe"
+            Content="Удалить"
+            Click="bDeleteRecipe_Click"
+            Margin="5"
+            Padding="12,6"
+            FontSize="14"
+            FontWeight="SemiBold"
+            Background="#F44336"
+            Foreground="White"
+            BorderThickness="0"
+            Cursor="Hand">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}"
+                                    CornerRadius="8"
+                                    Padding="{TemplateBinding Padding}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#E53935"/>
+                                <Setter Property="Effect">
+                                    <Setter.Value>
+                                        <DropShadowEffect BlurRadius="10" ShadowDepth="2" Opacity="0.25"/>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </StackPanel>
+
+
+    </Grid>
+</Page>

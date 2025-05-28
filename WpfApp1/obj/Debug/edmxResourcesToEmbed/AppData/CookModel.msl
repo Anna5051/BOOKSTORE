@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище CookBookModelContainer" CdmEntityContainer="CookBookEntities">
+    <EntitySetMapping Name="Authors">
+      <EntityTypeMapping TypeName="CookBookModel.Authors">
+        <MappingFragment StoreEntitySet="Authors">
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Experience" ColumnName="Experience" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+          <ScalarProperty Name="AuthorName" ColumnName="AuthorName" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="CookBookModel.Categories">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CookingSteps">
+      <EntityTypeMapping TypeName="CookBookModel.CookingSteps">
+        <MappingFragment StoreEntitySet="CookingSteps">
+          <ScalarProperty Name="StepID" ColumnName="StepID" />
+          <ScalarProperty Name="RecipeID" ColumnName="RecipeID" />
+          <ScalarProperty Name="StepNumber" ColumnName="StepNumber" />
+          <ScalarProperty Name="StepDescription" ColumnName="StepDescription" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ingredients">
+      <EntityTypeMapping TypeName="CookBookModel.Ingredients">
+        <MappingFragment StoreEntitySet="Ingredients">
+          <ScalarProperty Name="IngredientID" ColumnName="IngredientID" />
+          <ScalarProperty Name="IngredientName" ColumnName="IngredientName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RecipeImages">
+      <EntityTypeMapping TypeName="CookBookModel.RecipeImages">
+        <MappingFragment StoreEntitySet="RecipeImages">
+          <ScalarProperty Name="ImageID" ColumnName="ImageID" />
+          <ScalarProperty Name="RecipeID" ColumnName="RecipeID" />
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RecipeIngredients">
+      <EntityTypeMapping TypeName="CookBookModel.RecipeIngredients">
+        <MappingFragment StoreEntitySet="RecipeIngredients">
+          <ScalarProperty Name="RecipeIngredientID" ColumnName="RecipeIngredientID" />
+          <ScalarProperty Name="RecipeID" ColumnName="RecipeID" />
+          <ScalarProperty Name="IngredientID" ColumnName="IngredientID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Recipes">
+      <EntityTypeMapping TypeName="CookBookModel.Recipes">
+        <MappingFragment StoreEntitySet="Recipes">
+          <ScalarProperty Name="RecipeID" ColumnName="RecipeID" />
+          <ScalarProperty Name="RecipeName" ColumnName="RecipeName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+          <ScalarProperty Name="CookingTime" ColumnName="CookingTime" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RecipeTags">
+      <EntityTypeMapping TypeName="CookBookModel.RecipeTags">
+        <MappingFragment StoreEntitySet="RecipeTags">
+          <ScalarProperty Name="RecipeTagID" ColumnName="RecipeTagID" />
+          <ScalarProperty Name="RecipeID" ColumnName="RecipeID" />
+          <ScalarProperty Name="TagID" ColumnName="TagID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reviews">
+      <EntityTypeMapping TypeName="CookBookModel.Reviews">
+        <MappingFragment StoreEntitySet="Reviews">
+          <ScalarProperty Name="ReviewID" ColumnName="ReviewID" />
+          <ScalarProperty Name="RecipeID" ColumnName="RecipeID" />
+          <ScalarProperty Name="ReviewText" ColumnName="ReviewText" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tags">
+      <EntityTypeMapping TypeName="CookBookModel.Tags">
+        <MappingFragment StoreEntitySet="Tags">
+          <ScalarProperty Name="TagID" ColumnName="TagID" />
+          <ScalarProperty Name="TagName" ColumnName="TagName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FavoriteRecipes">
+      <EntityTypeMapping TypeName="CookBookModel.FavoriteRecipes">
+        <MappingFragment StoreEntitySet="FavoriteRecipes">
+          <ScalarProperty Name="DateAdded" ColumnName="DateAdded" />
+          <ScalarProperty Name="RecipeID" ColumnName="RecipeID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="FavoriteID" ColumnName="FavoriteID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

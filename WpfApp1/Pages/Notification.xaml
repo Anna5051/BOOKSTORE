@@ -1,0 +1,117 @@
+﻿<Page x:Class="WpfApp1.Pages.Notification"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="900"
+      Title="Notification"
+      Background="#FAFAFA"
+            IsVisibleChanged="Page_IsVisibleChanged">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Grid Margin="30">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <DockPanel Grid.Row="0" LastChildFill="False">
+                <Button Content="← Назад"
+         FontSize="14"
+         Padding="10,4"
+         Margin="0,0,0,10"
+         Background="Transparent"
+         Foreground="#0b5ed7"
+         BorderThickness="0"
+         FontWeight="Bold"
+         Cursor="Hand"
+         HorizontalAlignment="Left"
+         Click="BackButton_Click"/>
+            </DockPanel>
+
+          
+            <StackPanel Grid.Row="1" VerticalAlignment="Top" HorizontalAlignment="Stretch" MaxWidth="800">
+                <TextBlock Text="Уведомления" FontSize="28" FontWeight="Bold" Margin="0,0,0,30" Foreground="#222"/>
+
+          
+                <Border x:Name="FavoriteNotificationBanner"
+                        Background="#FFFBEA"
+                        BorderBrush="#FFD54F"
+                        BorderThickness="1"
+                        CornerRadius="10"
+                        Padding="16"
+                        Margin="0,0,0,20"
+                        Visibility="Collapsed">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="8" ShadowDepth="2" Opacity="0.25"/>
+                    </Border.Effect>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="📚 Некоторые книги из отложенного теперь доступны на складе!"
+                                   FontSize="15" FontWeight="SemiBold"
+                                   Foreground="#444" VerticalAlignment="Center"
+                                   TextWrapping="Wrap"/>
+
+                        <Button Content="✕"
+                                Grid.Column="1"
+                                Width="28" Height="28"
+                                Click="CloseFavoriteNotification_Click"
+                                Background="Transparent"
+                                BorderThickness="0"
+                                Foreground="Black"
+                                FontWeight="Bold"
+                                FontSize="14"
+                                Cursor="Hand"
+                                ToolTip="Закрыть"/>
+                    </Grid>
+                </Border>
+
+             
+                <ItemsControl x:Name="DiscountList">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border Background="#E6FFED"
+                                    BorderBrush="#4CAF50"
+                                    BorderThickness="1"
+                                    CornerRadius="10"
+                                    Padding="16"
+                                    Margin="0,0,0,16">
+                                <Border.Effect>
+                                    <DropShadowEffect BlurRadius="8" ShadowDepth="2" Opacity="0.25"/>
+                                </Border.Effect>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*" />
+                                        <ColumnDefinition Width="Auto" />
+                                    </Grid.ColumnDefinitions>
+
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="🔔" FontSize="18" Margin="0,0,10,0"/>
+                                        <TextBlock FontSize="14" Text="{Binding}" TextWrapping="Wrap" Foreground="#333"/>
+                                    </StackPanel>
+
+                                    <Button Content="✕"
+                                            Grid.Column="1"
+                                            Width="28" Height="28"
+                                            Background="Transparent"
+                                            BorderThickness="0"
+                                            Foreground="Black"
+                                            FontWeight="Bold"
+                                            FontSize="14"
+                                            ToolTip="Скрыть это уведомление"
+                                            Cursor="Hand"
+                                            Click="CloseDiscountItem_Click"/>
+                                </Grid>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Page>

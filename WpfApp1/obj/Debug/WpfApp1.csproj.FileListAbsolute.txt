@@ -1,0 +1,625 @@
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\Pages\RegistrationPage.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\WpfApp1\WpfApp1\obj\Debug\Pages\RegistrationPage.baml
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Загрузки\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.g.cs
+C:\Users\10230116\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.baml
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.g.cs
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.baml
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.g.cs
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.baml
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.g.cs
+C:\Users\Dev\Desktop\College\C#\CookBook\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.baml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.g.cs
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.g.cs
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.baml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.baml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.g.cs
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.g.cs
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.baml
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.baml
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\NEW\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\zxing.dll
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\zxing.xml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.g.cs
+C:\Users\10230116\Desktop\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.baml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\zxing.dll
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\zxing.xml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.baml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.baml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.baml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\CK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\zxing.dll
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\zxing.xml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.baml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.baml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.baml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\College\C#\CK\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\zxing.dll
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\zxing.xml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.g.cs
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.g.cs
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.g.cs
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.baml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.baml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.baml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\10230116\Desktop\1\1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\zxing.dll
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\zxing.xml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.g.cs
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.g.cs
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.g.cs
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\CreateRecipe.baml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteRecipes.baml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageRecipes.baml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\zxing.dll
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\zxing.xml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavorite.g.cs
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavorite.baml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageProducts.g.cs
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageProducts.baml
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\CreateProduct.g.cs
+C:\Users\Dev\Desktop\College\C#\12\WpfApp1\WpfApp1\obj\Debug\Pages\CreateProduct.baml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\zxing.dll
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\zxing.xml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\CreateProduct.g.cs
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavorite.g.cs
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageProducts.g.cs
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\CreateProduct.baml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavorite.baml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageProducts.baml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Dev\Desktop\College\C#\111\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\zxing.dll
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\zxing.xml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageProducts.g.cs
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageProducts.baml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\CreateBook.g.cs
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\CreateBook.baml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteBooks.baml
+C:\Users\Анна\Desktop\нормверсиясостаройбазой 2\12\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteBooks.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteBooks.baml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\PageProducts.baml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\CreateBook.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\PageFavoriteBooks.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\PageProducts.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\zxing.dll
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\zxing.xml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\CreateBook.baml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\zxing.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\zxing.presentation.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\zxing.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\zxing.presentation.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\CreateBook.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\PageFavoriteBooks.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\PageQRCode.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\CreateBook.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\PageFavoriteBooks.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\PageQRCode.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\PageProducts.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Regaistration.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\PageProducts.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Regaistration.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Basket.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Basket.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Description.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Description.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\PersonalAccount.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\PersonalAccount.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Payment.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Payment.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\PdfSharp.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\PdfSharp.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Notification.g.cs
+C:\Users\Анна\Desktop\BookStore\WpfApp1\obj\Debug\Pages\Notification.baml
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\MaterialSkin.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Анна\Desktop\BookStore\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
